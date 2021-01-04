@@ -1,0 +1,7 @@
+name: RewardVotifierDispatcher
+version: ${project.version}
+main: fr.kaname.rewardvotifierdispatcher.RewardVotifierDispatcher
+api-version: 1.16
+authors: [ Kaname ]
+description: Command dispatcher for plugin message forwarding or self plugin channel
+website: http://devblog.webcord.fr
